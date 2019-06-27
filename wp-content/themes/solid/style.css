@@ -934,7 +934,7 @@ body {
     position: absolute;
     left: -50px;
     top: 5px;
-    background: url(http://skilab/wp-content/uploads/2019/06/phone.png) no-repeat center;
+    background: url(../../../wp-content/uploads/2019/06/phone.png) no-repeat center;
     width: 35px;
     height: 35px;
 }
@@ -966,12 +966,12 @@ a.lang_link {
 .header_bottom-wrapper {
     width: 100%;
     min-height: 100vh;
-    background: url(http://skilab/wp-content/uploads/2019/06/fon2.png) no-repeat 100% 90%;
+    background: url(../../../wp-content/uploads/2019/06/fon2.png) no-repeat 100% 90%;
 }
 .header_bottom-image {
     width: 100%;
     height: 95vh;
-    background: url(http://skilab/wp-content/uploads/2019/06/lavanda_bg.png) no-repeat center;
+    background: url(../../../wp-content/uploads/2019/06/lavanda_bg.png) no-repeat center;
     background-size: contain;
 }
 .header_bottom-bg {
@@ -1412,7 +1412,7 @@ a.lang_link {
     position: absolute;
     right: -235px;
     top: 10px;
-    background: url("http://skilab/wp-content/uploads/2019/06/card.png") no-repeat center;
+    background: url(../../../wp-content/uploads/2019/06/card.png) no-repeat center;
     background-size: contain;
 }
 .school-wrapper {
@@ -1558,7 +1558,7 @@ a.lang_link {
 }
 .about_us-wrapper {
     width: 100%;
-    background: url(http://skilab/wp-content/uploads/2019/06/about_us-.png) no-repeat center;
+    background: url(../../../wp-content/uploads/2019/06/about_us-.png) no-repeat center;
     background-size: cover;
 }
 .about_us-bg {

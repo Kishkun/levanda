@@ -30,7 +30,7 @@ get_header();
                                 <div class="services-block block-first">
                                     <div class="services_block-inner">
                                         <figure class="services-image image-first">
-                                            <img src="http://skilab/wp-content/uploads/2019/06/service1.png"
+                                            <img src="wp-content/uploads/2019/06/service1.png"
                                                  alt="service"/>
                                         </figure>
                                         <a href="#" class="services-next next-first active"></a>
@@ -42,7 +42,7 @@ get_header();
                                 <div class="services-block block-second">
                                     <div class="services_block-inner services_block-inner-row">
                                         <figure class="services-image image-second">
-                                            <img src="http://skilab/wp-content/uploads/2019/06/service2.png"
+                                            <img src="wp-content/uploads/2019/06/service2.png"
                                                  alt="service"/>
                                         </figure>
                                         <a href="#" class="services-next next-second"></a>
@@ -54,7 +54,7 @@ get_header();
                                 <div class="services-block block-third">
                                     <div class="services_block-inner">
                                         <figure class="services-image image-third">
-                                            <img src="http://skilab/wp-content/uploads/2019/06/service3.png"
+                                            <img src="wp-content/uploads/2019/06/service3.png"
                                                  alt="service"/>
                                         </figure>
                                         <a href="#" class="services-next next-third"></a>
@@ -66,7 +66,7 @@ get_header();
                                 <div class="services-block block-fourth">
                                     <div class="services_block-inner services_block-inner-row">
                                         <figure class="services-image image-fourth">
-                                            <img src="http://skilab/wp-content/uploads/2019/06/service4.png"
+                                            <img src="wp-content/uploads/2019/06/service4.png"
                                                  alt="service"/>
                                         </figure>
                                         <a href="#" class="services-next next-fourth"></a>
@@ -78,7 +78,7 @@ get_header();
                                 <div class="services-block block-fifth">
                                     <div class="services_block-inner">
                                         <figure class="services-image image-fifth">
-                                            <img src="http://skilab/wp-content/uploads/2019/06/service5.png"
+                                            <img src="wp-content/uploads/2019/06/service5.png"
                                                  alt="service"/>
                                         </figure>
                                         <a href="#" class="services-next next-fifth"></a>
@@ -90,7 +90,7 @@ get_header();
                                 <div class="services-block block-six">
                                     <div class="services_block-inner services_block-inner-row">
                                         <figure class="services-image image-six">
-                                            <img src="http://skilab/wp-content/uploads/2019/06/service6.png"
+                                            <img src="wp-content/uploads/2019/06/service6.png"
                                                  alt="service"/>
                                         </figure>
                                         <a href="#" class="services-next next-six"></a>
@@ -104,8 +104,8 @@ get_header();
                         <div class="hairdresser-wrapper">
                             <div class="hairdresser-body">
                                 <figure class="hairdresser-image">
-                                    <img class="leaf_green" src="http://skilab/wp-content/uploads/2019/06/leaf_green.png" alt="leaf"/>
-                                    <img class="leaf_white" src="http://skilab/wp-content/uploads/2019/06/leaf_white.png" alt="leaf"/>
+                                    <img class="leaf_green" src="wp-content/uploads/2019/06/leaf_green.png" alt="leaf"/>
+                                    <img class="leaf_white" src="wp-content/uploads/2019/06/leaf_white.png" alt="leaf"/>
                                 </figure>
                                 <div class="hairdresser-content">
                                     <div class="hairdresser-inner">
@@ -157,7 +157,7 @@ get_header();
                                     </div>
                                 </div>
                                 <figure class="gift_card-image">
-                                    <!--                                <img src="http://skilab/wp-content/uploads/2019/06/card.png" alt="card"/>-->
+                                    <!--                                <img src="wp-content/uploads/2019/06/card.png" alt="card"/>-->
                                 </figure>
                             </div>
                         </div>
@@ -178,7 +178,7 @@ get_header();
                         <div class="school_work-wrapper">
                             <div class="school_work-block">
                                 <figure class="school_work-image">
-                                    <img src="http://skilab/wp-content/uploads/2019/06/work1_1-.png" alt="work"/>
+                                    <img src="wp-content/uploads/2019/06/work1_1-.png" alt="work"/>
                                 </figure>
                                 <div class="school_work-text">
                                     <h4 class="title_h4">КОММЕРЧЕСКИЙ МАКИЯЖ</h4>
@@ -186,7 +186,7 @@ get_header();
                             </div>
                             <div class="school_work-block">
                                 <figure class="school_work-image">
-                                    <img src="http://skilab/wp-content/uploads/2019/06/work2.png" alt="work"/>
+                                    <img src="wp-content/uploads/2019/06/work2.png" alt="work"/>
                                 </figure>
                                 <div class="school_work-text">
                                     <h4 class="title_h4">ГРИМ</h4>
@@ -194,7 +194,7 @@ get_header();
                             </div>
                             <div class="school_work-block">
                                 <figure class="school_work-image">
-                                    <img src="http://skilab/wp-content/uploads/2019/06/work3.png" alt="work"/>
+                                    <img src="wp-content/uploads/2019/06/work3.png" alt="work"/>
                                 </figure>
                                 <div class="school_work-text">
                                     <h4 class="title_h4">КАРАНДАШНАЯ ТЕХНИКА</h4>
@@ -202,7 +202,7 @@ get_header();
                             </div>
                             <div class="school_work-block">
                                 <figure class="school_work-image">
-                                    <img src="http://skilab/wp-content/uploads/2019/06/work4.png" alt="work"/>
+                                    <img src="wp-content/uploads/2019/06/work4.png" alt="work"/>
                                 </figure>
                                 <div class="school_work-text">
                                     <h4 class="title_h4">И МНОГОЕ ДРУГОЕ...</h4>
@@ -230,16 +230,16 @@ get_header();
                     </div>
                 </div>
                 <figure class="shadow-image">
-                    <img src="http://skilab/wp-content/uploads/2019/06/shadow.png" alt="shadow"/>
+                    <img src="wp-content/uploads/2019/06/shadow.png" alt="shadow"/>
                 </figure>
                 <figure class="shadow_image-second">
-                    <img src="http://skilab/wp-content/uploads/2019/06/shadow2.png" alt="shadow"/>
+                    <img src="wp-content/uploads/2019/06/shadow2.png" alt="shadow"/>
                 </figure>
                 <figure class="petal-image">
-                    <img src="http://skilab/wp-content/uploads/2019/06/petal.png" alt="petal"/>
+                    <img src="wp-content/uploads/2019/06/petal.png" alt="petal"/>
                 </figure>
                 <figure class="petal_image-second">
-                    <img src="http://skilab/wp-content/uploads/2019/06/petal2.png" alt="petal"/>
+                    <img src="wp-content/uploads/2019/06/petal2.png" alt="petal"/>
                 </figure>
             </section>
             <section class="about_us-wrapper">
@@ -253,7 +253,7 @@ get_header();
                             <div class="about_us-content">
                                 <div class="about_us-left-block">
                                     <figure class="about_us-logo">
-                                        <img src="http://skilab/wp-content/uploads/2019/06/logo_about.png"
+                                        <img src="wp-content/uploads/2019/06/logo_about.png"
                                              alt="logo_about"/>
                                     </figure>
                                     <div class="description-info">
@@ -275,13 +275,13 @@ get_header();
                                             <div class="quality_inner-top">
                                                 <span class="quality-title">ЭЛЕГАНТНОСТЬ</span>
                                                 <figure class="quality-image quality_mob-image">
-                                                    <img src="http://skilab/wp-content/uploads/2019/06/leaf.png"
+                                                    <img src="wp-content/uploads/2019/06/leaf.png"
                                                          alt="leaf"/>
                                                 </figure>
                                             </div>
                                             <div class="quality_inner-bottom">
                                                 <figure class="quality-image">
-                                                    <img src="http://skilab/wp-content/uploads/2019/06/hand.png"
+                                                    <img src="wp-content/uploads/2019/06/hand.png"
                                                          alt="hand"/>
                                                 </figure>
                                                 <span class="quality-title">КАЧЕСТВО</span>
@@ -291,13 +291,13 @@ get_header();
                                             <div class="quality_inner-top">
                                                 <span class="quality-title">ИСКРЕННОСТЬ</span>
                                                 <figure class="quality-image">
-                                                    <img src="http://skilab/wp-content/uploads/2019/06/flower.png"
+                                                    <img src="wp-content/uploads/2019/06/flower.png"
                                                          alt="flower"/>
                                                 </figure>
                                             </div>
                                             <div class="quality_inner-bottom">
                                                 <figure class="quality-image">
-                                                    <img src="http://skilab/wp-content/uploads/2019/06/heart.png"
+                                                    <img src="wp-content/uploads/2019/06/heart.png"
                                                          alt="heart"/>
                                                 </figure>
                                                 <span class="quality-title">СПОКОЙСТВИЕ</span>

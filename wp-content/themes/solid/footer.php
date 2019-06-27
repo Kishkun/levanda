@@ -31,13 +31,13 @@
                     </div>
                     <div class="footer-social">
                         <a href="#" target="_blank" class="social-link" title="go to instagram">
-                            <img src="http://skilab/wp-content/uploads/2019/06/instagram.png" alt="instagram"/>
+                            <img src="wp-content/uploads/2019/06/instagram.png" alt="instagram"/>
                         </a>
                         <a href="#" target="_blank" class="social-link" title="go to facebook">
-                            <img src="http://skilab/wp-content/uploads/2019/06/facebook-logo.png" alt="facebook"/>
+                            <img src="wp-content/uploads/2019/06/facebook-logo.png" alt="facebook"/>
                         </a>
                         <a href="#" target="_blank" class="social-link" title="go to vk">
-                            <img src="http://skilab/wp-content/uploads/2019/06/vk.png" alt="vk"/>
+                            <img src="wp-content/uploads/2019/06/vk.png" alt="vk"/>
                         </a>
                     </div>
                 </div>
